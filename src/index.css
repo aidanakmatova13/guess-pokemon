@@ -1,0 +1,23 @@
+.content{
+    text-align: center;
+    border: 1px solid midnightblue;
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    background-color: lightsteelblue;
+}
+*{
+    font-size: 20px;
+}
+.choose-btn{
+    background-color: yellowgreen;
+    margin-bottom: 8px;
+    border: 1px solid black;
+}
+.start-btn{
+    background-color: mediumpurple;
+    border: 1px solid black;
+}
+button{
+    padding: 8px;
+}
